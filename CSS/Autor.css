@@ -1,0 +1,61 @@
+.hd{
+	height:400px ;
+	background-image:url(../IMG/cur.jpg);
+	background-size: cover;
+	background-position: top center;
+    padding-bottom: 300px;
+	
+
+
+}
+
+.hd nav ul{ 	
+	text-align: right;
+}
+
+.hd li a{
+	text-decoration: none ;  
+	margin-left: 8px; 
+	border:1px solid white;
+	padding: 10px;
+	color: white;
+	
+}
+
+.hd nav li{
+ 	display: inline; 
+ 	list-style: none;
+ 	text-align: right;
+ 	margin-right: 5px;
+ }
+
+ .hd h1{
+ 	margin-top: 90px;
+    text-align: center; 	
+    color:green;
+    font-size: 100px;
+ }
+
+ .plo h2{
+ 	text-align: center;
+ 	color: blue;
+ 	border: 1px solid yellow;
+ 	border-radius: 25px;
+ }
+
+ .do a{
+	border: 1px solid black;
+	padding: 15px 25px;
+	text-decoration: none;
+	border-radius: 5px;
+
+}
+
+   .ni{
+	background: yellow;
+	padding: 10px 15px;
+	clear: both;
+	margin-top: 15px;
+	text-align: center;
+
+}

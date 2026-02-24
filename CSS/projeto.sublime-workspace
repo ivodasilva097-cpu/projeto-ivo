@@ -1,0 +1,235 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"al",
+				"alt"
+			],
+			[
+				"ce",
+				"cellspacing"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"mar",
+				"margin-left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Ivo-2/Desktop/HTML2/Projeto/CSS/personalidades.css",
+		"/C/Users/Ivo-2/Desktop/HTML2/Projeto/personalidades.html",
+		"/C/Users/Ivo-2/Desktop/HTML2/Projeto/Armas.html",
+		"/C/Users/Ivo-2/Desktop/HTML2/Projeto/CSS/Armas.css",
+		"/C/Users/Ivo-2/Desktop/HTML2/Projeto/conflito.html",
+		"/C/Users/Ivo-2/Desktop/HTML2/Projeto/CSS/conflito.css",
+		"/C/Users/Ivo-2/Desktop/HTML2/Projeto/origem.html",
+		"/C/Users/Ivo-2/Desktop/HTML2/Projeto/Armas",
+		"/C/Users/Ivo-2/Desktop/HTML2/Projeto/CSS/origem.css",
+		"/C/Users/Ivo-2/Desktop/HTML2/conflitos.html",
+		"/C/Users/Ivo-2/Desktop/HTML2/Projeto/origem.css",
+		"/C/Users/Ivo-2/Desktop/HTML2/Projeto/gastronomia.html",
+		"/C/Users/Ivo-2/Desktop/HTML2/TPC/index.html",
+		"/C/Users/Ivo-2/Desktop/HTML2/TPC/CSS/index.css",
+		"/C/Users/Ivo-2/Desktop/HTML2/TPC/CSS/index",
+		"/C/Users/Ivo-2/Documents/FeedbackHub/index.html",
+		"/C/Users/Ivo-2/Desktop/projeto/CSS/index.css",
+		"/C/Users/Ivo-2/Desktop/projeto/index.html",
+		"/C/Users/Ivo-2/Desktop/projeto/index.css",
+		"/C/Users/Ivo-2/Desktop/projeto/IMG/IMG-20250603-WA0007.jpg",
+		"/C/Users/Ivo-2/index.html",
+		"/C/Users/Ivo-2/inde.html",
+		"/C/Users/Ivo-2/Documents/kjkll.css",
+		"/C/Users/Ivo-2/Desktop/osca/index.html",
+		"/C/Users/Ivo-2/Desktop/Site/css/index.css",
+		"/C/site/lista ordenada.html",
+		"/C/site/Exercicios usando css.html",
+		"/C/site/Exercícios.html",
+		"/C/site/Exercícios 2.html",
+		"/C/site/imagens.html",
+		"/C/site/tpc.html",
+		"/C/site/tabela.html",
+		"/C/site/exercicio kalba.html",
+		"/C/site/exercicio de tabela.html",
+		"/C/site/tpc formulário medico.html",
+		"/C/Users/Ivo-2/Desktop/HTML/Ficha.html",
+		"/C/site/simplis exercicios.html",
+		"/C/site/html.html",
+		"/C/site/html. html",
+		"/C/site/fomatação",
+		"/C/site/html",
+		"/C/site/controles de formatação",
+		"/C/site/aula-html/exe.html",
+		"/C/Users/Ivo-2/Documents/listas ordenadas.html",
+		"/C/site/aula-html/html.html"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "projeto.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,95 @@
+.cab{
+	height:400px ;
+	background-image:url(../IMG/imagem1.png) ;
+	padding-top: 10px;
+}
+
+.cab nav ul{ 	
+	text-align: right;
+}
+
+.cab li a{
+	text-decoration: none ;  
+	margin-left: 8px; 
+	border:1px solid blue;
+	padding: 10px;
+	color:green;
+	
+}
+
+ .cab nav li{
+ 	display: inline; 
+ 	list-style: none;
+ 	text-align: right;
+ }
+
+ .cab h2{
+ 	margin-top: 90px;
+    text-align: center; 	
+    color:red;
+    font-size: 100px;
+ }
+
+ .origem h2{
+   text-align:left;
+   font-size: 50px;
+   border: 1px solid blue;
+   background: yellow;
+   padding: 18px 22px;
+   color: red;
+   border-radius: 40px;
+ }
+.egl h3{
+
+ text-align:left;
+   font-size: 50px;
+   border: 1px solid blue;
+   background: yellow;
+   padding: 18px 22px;
+   color: red;
+   border-radius: 40px;
+
+
+}
+ 
+.farp h1{
+text-align: center;
+font-size: 60px;
+border: 1px solid blue;
+ 	border-radius:60px;
+ 	background:yellow;
+ 	padding: 15px 20px;
+ 	text-align: center;
+ 	margin: 2px 110px;
+ 	color: red;
+
+}
+
+.pe{
+	background: yellow;
+	padding: 35px;
+	text-align: center;
+}
+
+.pe a{
+	border: 1px solid black;
+	padding: 15px 25px;
+	text-decoration: none;
+	border-radius: 30px;
+	background: rgba(0, 0, 0, 0.2);
+	box-shadow: 0px 5px 4px black;
+	margin-left: 8px;
+}
+
+.pe img{
+	margin-bottom: -5px;
+}
+
+.pe p{
+	font-size: 30px;
+}
+ 
+
+p{
+	font-size: 25px;
+}
